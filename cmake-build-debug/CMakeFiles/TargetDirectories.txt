@@ -1,0 +1,3 @@
+C:/Users/26335/Desktop/lab_quacks/cmake-build-debug/CMakeFiles/lab_quacks.dir
+C:/Users/26335/Desktop/lab_quacks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/26335/Desktop/lab_quacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
